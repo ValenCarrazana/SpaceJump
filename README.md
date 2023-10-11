@@ -7,4 +7,5 @@ Ajuntamos videos a Youtube
 Video de explicacion del juego:
 https://www.youtube.com/watch?v=sq1_MKOl380
 
-Video de Prueba del juego:
+Video de Prueba del juego: 
+https://youtu.be/CzCXe3FWh8Q
